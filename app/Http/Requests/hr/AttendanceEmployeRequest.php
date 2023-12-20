@@ -1,0 +1,42 @@
+<?php
+
+namespace App\Http\Requests\hr;
+
+use Illuminate\Foundation\Http\FormRequest;
+use Illuminate\Validation\Rule;
+
+class AttendanceEmployeRequest extends FormRequest
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return bool
+     */
+    public function authorize()
+    {
+        return true;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array<string, mixed>
+     */
+    public function rules()
+    {
+        if ($this->method() == 'POST') {
+            return [
+                'employees_id' => ['required', 'int']
+
+            ];
+        } elseif ($this->method() == 'PUT') {
+            return [
+                'employees_id' => ['required', 'int']
+
+
+            ];
+        }
+    }
+
+
+}

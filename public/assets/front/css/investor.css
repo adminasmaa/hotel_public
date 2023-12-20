@@ -1,0 +1,251 @@
+/*--------------------------------------------------------------
+# font-face
+--------------------------------------------------------------*/
+
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@900&display=swap');
+
+
+
+/*--------------------------------------------------------------
+# investor
+--------------------------------------------------------------*/
+.investor {
+    text-align: right;
+}
+
+.investor .searchbox-1 .form-horizontal .btn {
+    margin-top: 0;
+}
+
+
+
+.investor .box-investor {
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 20px;
+    font-size: 22px;
+    font-weight: bold;
+    -webkit-box-shadow: 0px 3px 5px 1px rgb(0 0 0 / 11%);
+    -moz-box-shadow: 0px 3px 5px 1px rgba(0, 0, 0, 0.11);
+    box-shadow: 0px 3px 5px 1px rgb(0 0 0 / 11%);
+}
+
+.investor .box-investor .btn {
+    padding: .375rem 0.60rem;
+}
+
+.investor .box-investor .col-top {
+    margin-bottom: 10px;
+}
+
+
+.investor .cat-filter {
+    margin-bottom: 20px;
+}
+
+.investor .progressbar {
+    width: 100%;
+    display: inline-block;
+    height: auto;
+    background: #F5F5F5;
+    padding: 30px 0 15px 0;
+    -webkit-box-shadow: 0px 3px 5px 1px rgb(0 0 0 / 11%);
+    -moz-box-shadow: 0px 3px 5px 1px rgba(0, 0, 0, 0.11);
+    box-shadow: 0px 3px 5px 1px rgb(0 0 0 / 11%);
+    margin: 7px 0 20px 0;
+}
+
+.investor .label-box {
+    border-radius: 20px;
+    margin: 0 0 10px 0;
+    width: 100%;
+    height: 100%;
+    -webkit-box-shadow: 0px 3px 5px 1px rgba(0, 0, 0, 0.11);
+    -moz-box-shadow: 0px 3px 5px 1px rgba(0, 0, 0, 0.11);
+    box-shadow: 0px 3px 5px 1px rgba(0, 0, 0, 0.11);
+}
+
+.investor .label-box .label {
+    background: #f8b118;
+    padding: 13px 20px;
+    border-radius: 0 20px 20px 0;
+    color: #fff;
+    margin-left: 20px;
+    width: 40%;
+    text-align: right;
+    font-size: 16px;
+    float: right;
+}
+
+@media (max-width: 768px) {
+    .investor .label-box .label {
+        width: 38%;
+    }
+}
+
+.investor .label-box .label2 {
+    line-height: 30px;
+    padding: 10px 0 0 0;
+    font-size: 20px;
+    text-align: right;
+}
+
+.add_property .label-property {
+    line-height: 30px;
+    padding: 10px 0 0 0;
+    font-size: 20px;
+    text-align: right;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+}
+
+
+.add_property .label-property::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    right: 0;
+    width: 10%;
+    height: 3px;
+    background: #f8b118;
+}
+
+.investor .form-check-label {
+    margin-bottom: 0;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+
+
+
+
+
+.hesabaty .serviceBox {
+   background: #fff;
+    text-align: center;
+    padding: 0 0 25px;
+    box-shadow: 0 2px 5px 0 #888282;
+    border-top: 10px solid #f8b118;
+    margin-top: 0;
+    transition: 0.3s;
+    height: 300px;
+}
+
+.hesabaty .serviceBox:hover {
+    background: #f8b118;
+    text-align: center;
+    border-top: 10px solid #868686;
+}
+
+.hesabaty .serviceBox .service-icon {
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    border-radius: 50%;
+    background: #fff;
+    border: 3px solid #868686;
+    margin: 25px auto 0;
+    transition: 0.3s;
+}
+
+.hesabaty .serviceBox:hover .service-icon {
+    background: #f8b118;
+    border: 3px solid #fff;
+}
+
+.hesabaty .serviceBox .service-icon i {
+    color: #f8b118;
+    font-size: 55px;
+    transition: 0.3s;
+    line-height: 100px;
+}
+
+.hesabaty .serviceBox:hover .service-icon i {
+    color: #fff;
+}
+
+
+.hesabaty .serviceBox .service-content {
+    padding: 0;
+}
+
+.hesabaty .serviceBox .service-content h3 {
+    color: rgb(0, 0, 0);
+    font: bold 24px/40px;
+    margin: 30px 0 10px;
+}
+
+
+.hesabaty .serviceBox .read {
+    padding: 30px 0;
+}
+
+.hesabaty .serviceBox .read i {
+    border: 3px solid #f8b118;
+    padding: 9px 25px;
+    font-size: 25px;
+    line-height: 2;
+    color: #f8b118;
+}
+
+.hesabaty .serviceBox .read i:hover {
+    background: #f8b118;
+    color: #000;
+    text-decoration: none;
+}
+
+.hesabaty .serviceBox:hover .read i {
+    border: 3px solid #fff;
+    color: #000;
+}
+
+.hesabaty .serviceBox .read a i {
+    font-size: 25px;
+}
+
+.hesabaty .btn-p a {
+    color: #fff;
+}
+
+.hesabaty .btn-p a:hover {
+    color: #fff;
+}
+
+
+.eshraaty  {
+    text-align: right;
+}
+
+.eshraaty .all-box {
+    background: #fff;
+    text-align: right;
+    padding: 10px;
+    box-shadow: 0 2px 5px 0 #888282;
+    border-top: 5px solid #f8b118;
+    margin-top: 55px;
+    transition: 0.3s;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.eshraaty h2 {
+    background: rgba(201, 201, 201, 0.63);
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    width: 100%;
+    margin: 0 auto 20px;
+}

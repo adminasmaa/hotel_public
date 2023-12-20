@@ -1,0 +1,256 @@
+    <!-- ======= product-grid ======= -->
+        <div class="product-grid-all">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-md-3 col-xs-6">
+                        <div class="box">
+                            <img src="assets/img/product/1.png">
+                         
+                            <ul class="icon">
+                                <li><a href="#"><i class="fa fa-eye"></i> 20</a></li>
+                                <li><a href="#"><i class="fa fa-star"></i> 5</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-3 col-xs-6">
+                        <div class="box">
+                            <img src="assets/img/product/2.png">
+                           
+                            <ul class="icon">
+                                <li><a href="#"><i class="fa fa-eye"></i> 20</a></li>
+                                <li><a href="#"><i class="fa fa-star"></i> 5</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-3 col-xs-6">
+                        <div class="box">
+                            <img src="assets/img/product/3.png">
+                           
+                            <ul class="icon">
+                                <li><a href="#"><i class="fa fa-eye"></i> 20</a></li>
+                                <li><a href="#"><i class="fa fa-star"></i> 5</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 col-xs-6">
+                        <div class="box">
+                            <img src="assets/img/product/4.png">
+                            
+                            <ul class="icon">
+                                <li><a href="#"><i class="fa fa-eye"></i> 20</a></li>
+                                <li><a href="#"><i class="fa fa-star"></i> 5</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-3 col-xs-6">
+                        <div class="box">
+                           <img src="assets/img/product/5.png">
+
+                            <ul class="icon">
+                                <li><a href="#"><i class="fa fa-eye"></i> 20</a></li>
+                                <li><a href="#"><i class="fa fa-star"></i> 5</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+
+                    <div class="col-md-3 col-xs-6">
+                        <div class="box">
+                            <img src="assets/img/product/6.png">
+                            <ul class="icon">
+                                <li><a href="#"><i class="fa fa-eye"></i> 20</a></li>
+                                <li><a href="#"><i class="fa fa-star"></i> 5</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 col-xs-6">
+                        <div class="box">
+                            <img src="assets/img/product/7.png">
+                            <ul class="icon">
+                                <li><a href="#"><i class="fa fa-eye"></i> 20</a></li>
+                                <li><a href="#"><i class="fa fa-star"></i> 5</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 col-xs-6">
+                        <div class="box">
+                           <img src="assets/img/product/10.png">
+                            <ul class="icon">
+                                <li><a href="#"><i class="fa fa-eye"></i> 20</a></li>
+                                <li><a href="#"><i class="fa fa-star"></i> 5</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-3 col-xs-6">
+                        <div class="box">
+                           <img src="assets/img/product/8.png">
+                            <ul class="icon">
+                                <li><a href="#"><i class="fa fa-eye"></i> 20</a></li>
+                                <li><a href="#"><i class="fa fa-star"></i> 5</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-3 col-xs-6">
+                        <div class="box">
+                            <img src="assets/img/product/9.png">
+                            <ul class="icon">
+                                <li><a href="#"><i class="fa fa-eye"></i> 20</a></li>
+                                <li><a href="#"><i class="fa fa-star"></i> 5</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 col-xs-6">
+                        <div class="box">
+                           <img src="assets/img/product/10.png">
+                            <ul class="icon">
+                                <li><a href="#"><i class="fa fa-eye"></i> 20</a></li>
+                                <li><a href="#"><i class="fa fa-star"></i> 5</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 col-xs-6">
+                        <div class="box">
+                           <img src="assets/img/product/11.png">
+                            <ul class="icon">
+                                <li><a href="#"><i class="fa fa-eye"></i> 20</a></li>
+                                <li><a href="#"><i class="fa fa-star"></i> 5</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-3 col-xs-6">
+                        <div class="box">
+                           <img src="assets/img/product/12.png">
+                            <ul class="icon">
+                                <li><a href="#"><i class="fa fa-eye"></i> 20</a></li>
+                                <li><a href="#"><i class="fa fa-star"></i> 5</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+
+                    <div class="col-md-3 col-xs-6">
+                        <div class="box">
+                           <img src="assets/img/product/13.png">
+                            <ul class="icon">
+                                <li><a href="#"><i class="fa fa-eye"></i> 20</a></li>
+                                <li><a href="#"><i class="fa fa-star"></i> 5</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-3 col-xs-6">
+                        <div class="box">
+                            <img src="assets/img/product/14.png">
+                            <ul class="icon">
+                                <li><a href="#"><i class="fa fa-eye"></i> 20</a></li>
+                                <li><a href="#"><i class="fa fa-star"></i> 5</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-3 col-xs-6">
+                        <div class="box">
+                           <img src="assets/img/product/15.png">
+                            <ul class="icon">
+                                <li><a href="#"><i class="fa fa-eye"></i> 20</a></li>
+                                <li><a href="#"><i class="fa fa-star"></i> 5</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 col-xs-6">
+                        <div class="box">
+                            <img src="assets/img/product/16.png">
+                            <ul class="icon">
+                                <li><a href="#"><i class="fa fa-eye"></i> 20</a></li>
+                                <li><a href="#"><i class="fa fa-star"></i> 5</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-3 col-xs-6">
+                        <div class="box">
+                           <img src="assets/img/product/17.png">
+                            <ul class="icon">
+                                <li><a href="#"><i class="fa fa-eye"></i> 20</a></li>
+                                <li><a href="#"><i class="fa fa-star"></i> 5</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-3 col-xs-6">
+                        <div class="box">
+                            <img src="assets/img/product/18.png">
+                            <ul class="icon">
+                                <li><a href="#"><i class="fa fa-eye"></i> 20</a></li>
+                                <li><a href="#"><i class="fa fa-star"></i> 5</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-3 col-xs-6">
+                        <div class="box">
+                            <img src="assets/img/product/19.png">
+                            <ul class="icon">
+                                <li><a href="#"><i class="fa fa-eye"></i> 20</a></li>
+                                <li><a href="#"><i class="fa fa-star"></i> 5</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-3 col-xs-6">
+                        <div class="box">
+                           <img src="assets/img/product/20.png">
+                            <ul class="icon">
+                                <li><a href="#"><i class="fa fa-eye"></i> 20</a></li>
+                                <li><a href="#"><i class="fa fa-star"></i> 5</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-3 col-xs-6">
+                        <div class="box">
+                           <img src="assets/img/product/21.png">
+                            <ul class="icon">
+                                <li><a href="#"><i class="fa fa-eye"></i> 20</a></li>
+                                <li><a href="#"><i class="fa fa-star"></i> 5</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+
+
+
+                </div>
+            </div>
+        </div>
+        <!-- End product-grid Section -->
+

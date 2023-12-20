@@ -1,0 +1,118 @@
+====================
+----- 26/08/2022 ---
+====================
+added : Django version added
+
+====================
+----- 22/07/2022 ---
+====================
+update angular theme 
+------------------
+Update : angular version 14.0.4
+Update : converted to bootstrap 5 
+Update : node version 16.10.0
+
+====================
+----- 7/12/2021 ---
+====================
+Updated : Upgrade To angular 13
+
+====================
+----- 25/09/2021 ---
+====================
+added : Vue versionnew layout added
+
+
+====================
+----- 17/05/2021 ---
+====================
+Angular 12 Updated
+
+====================
+----- 16/04/2021 ------
+====================
+
+HTML version : Solved issue(RTL version) in datepicker page
+Angular vesion added 12 new layouts and solved design issues
+React vesion added 12 new layouts and solved design issues
+Laravel vesion added 12 new layouts and update laravel 8 and bootstrap 5
+
+====================
+----- 16/04/2021 ------
+====================
+Added : figma vesion added
+
+====================
+----- 15/04/2021 ------
+====================
+Update : Html version landing page design updated
+fixed : menu issues
+
+====================
+----- 02/04/2021 ------
+====================
+Added : create common document for all versions
+removed : remove document from all version ex : html, react...
+Update : Html version is updated with with 12 layouts
+fixed : compact layout issues
+
+====================
+----- 21/01/2021 ------
+====================
+Update : Html version is updated with bootstrap 5
+
+====================
+----- 26/11/2020 ------
+====================
+Upgrade angular 11
+
+====================
+----- 24/11/2020 ------
+====================
+Added: Vue version added
+
+====================
+----- 16/10/2020(html) ------
+====================
+Changes : optimize scss
+Update : customizer position change
+Added: level menu added
+update : Knowledgebase page design
+update : compect menu design
+Added : Unlimited color from customizer
+
+====================
+----- 13/10/2020(Laravel) ------
+====================
+Updated : Laravel version 7 to 8
+====================
+----- 06/10/2020(React) ------
+====================
+Added : Auth0 and JWT token for login Authentication
+Added : SAGA
+Convert : static data to fetch from JSON using Axios
+Change : some SCSS structure for color changing
+
+====================
+----- 09/08/2020 ------
+====================
+Update : Fix some design issue(changes in style.css & script.js)
+
+====================
+----- 09/08/2020 ------
+====================
+Update : react theme fix some bugs
+Added : added 3 new apps to HTML version
+
+
+====================
+----- 02/08/2020 ------
+====================
+Added : React version added
+
+
+====================
+----- 29/7/2020 ------
+====================
+Added : laravel version added
+
